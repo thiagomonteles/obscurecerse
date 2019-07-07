@@ -1,4 +1,4 @@
-*Projeto incompleto.
+*Em desenvolvimento
 
 Para compilar é necessario ter o GCC instalado em sua maquina.
 
